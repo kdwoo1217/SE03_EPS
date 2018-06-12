@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PLD</string>
+    <string name="title_activity_parking_info">ParkingInfoActivity</string>
+</resources>
